@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yiqian Zhang"
   avatar           : "profile.png"
-  bio              : "Life was a box of chocolates,you never know what you're gonna get. - Forrest Gump"
+  bio              : "Life was a box of chocolates, you never know what you're gonna get. - Forrest Gump"
   location         : "905 Welch Dr, Urbana, IL"
   email            : "holden_yiqianzhang@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
