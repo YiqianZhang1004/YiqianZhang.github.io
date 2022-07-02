@@ -15,10 +15,3 @@ Turkey Run State Park
 
 
 
-Movies I like and the classic lines in them
-======
-* Flipped
-    * A painting is more than the sum of its parts. A cow by itself is just a cow. A meadow by itself is just grass, flowers. And the sun peeking through the trees is just a beam of light. But you put them all together and it can be magic.
-    * Some of us get dipped in flat, some in satin, some in gloss. But every once in a while you find someone who's iridescent, and when you do, nothing will ever compare.
-* Interstellar
-    * And we count these moments. These moments when we dare to aim higher, to break barriers, to reach for the stars, to make the unknown known. We count these moments as our proudest achievements.
