@@ -22,7 +22,8 @@ Activities
 * 2022 Virtual Insight Series from Goldman Sachs
 * Global Leaders: Orange and Blue Engagement
     * Become a part of the global team. Meet people from all over the world and learn about cultures around the world to improve intercultural communication skills and leadership experience.
-
+* VEX Robot Club    2018 - 2020
+    * Team leader: Led 10 members to design, make and program robots; used automatic programs to enable the robots to move in specific competition venues. Win awards at national and world-class events.
 
 Skills
 ======
