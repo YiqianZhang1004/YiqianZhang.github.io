@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * University of Illinois at Urbana-Champaign    Graduate data: 2025
-    * Bachelor of mathematics in LAS
+    * Bachelor of mathematics and statistics in LAS
     * GPA:3.92
 
 Activities
