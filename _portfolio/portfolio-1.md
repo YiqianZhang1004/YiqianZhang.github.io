@@ -1,7 +1,7 @@
 ---
 title: "Accounting Fundamentals certificate from CFI"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/AF.png'>"
+excerpt: "Accounting Fundamental Certificate Accredited by Corporate Finance Institude <br/><img src='/images/AF.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Certificate number: 42099493
