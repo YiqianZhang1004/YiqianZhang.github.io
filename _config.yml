@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yiqian Zhang / Site Title"
+title                    : "Yiqian Zhange"
 title_separator          : "-"
 name                     : &name "Yiqian Zhang"
 description              : &description "personal website"
@@ -80,14 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Yiqian Zhang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  bio              : "Life was a box of chocolates,you never know what you're gonna get. - Forrest Gump"
+  location         : "905 Welch Dr, Urbana, IL 61801"
+  email            : "holden_yiqianzhang@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
