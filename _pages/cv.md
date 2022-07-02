@@ -15,7 +15,7 @@ Education
     * Bachelor of mathematics in LAS
     * GPA:3.92
 
-Actities
+Activities
 ======
 * “One Heart” Social Welfare Activity
     * Team leader: Conducted an online survey; analyzed the psychological state of the public under the COVID-19 epidemic through quantitative analysis.
