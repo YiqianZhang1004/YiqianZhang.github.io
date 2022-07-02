@@ -83,7 +83,7 @@ author:
   name             : "Yiqian Zhang"
   avatar           : "profile.png"
   bio              : "Life was a box of chocolates,you never know what you're gonna get. - Forrest Gump"
-  location         : "905 Welch Dr, Urbana, IL 61801"
+  location         : "905 Welch Dr, Urbana, IL"
   email            : "holden_yiqianzhang@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -93,14 +93,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "www.linkedin.com/in/YiqianZhang1004"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
