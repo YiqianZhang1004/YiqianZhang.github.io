@@ -14,6 +14,8 @@ Education
 * University of Illinois at Urbana-Champaign         Graduate data: 2024
     * Bachelor of mathematics and statistics in LAS
     * GPA:3.87
+    * Dean’s list: Spring 2022
+    * Relevant Courseworks: Calculus, Computer Science, Differential Equations, Statistics and Probability, Statistical Analysis, Statistics Programming Methods, Statistical Modeling
 
 Relevant Projects
 ======
