@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* University of Illinois at Urbana-Champaign         Graduate data: 2025
+* University of Illinois at Urbana-Champaign         Graduate data: 2024
     * Bachelor of mathematics and statistics in LAS
-    * GPA:3.92
+    * GPA:3.87
 
 Relevant Projects
 ======
@@ -41,11 +41,14 @@ Activities
 Skills
 ======
 * JAVA 
-* Languages:
-  * Chinese (Native)
-  * English (Fluent)
+* R
+* Python
 * Microsoft office :Microsoft Office Specialist: Master
 * SQL
 * Tableau
+* Languages:
+  * Chinese (Native)
+  * English (Fluent)
+
 
 
