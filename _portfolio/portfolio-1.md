@@ -14,6 +14,6 @@ The Python file __osm_analysis.py__ includes functions to visualize and analyze 
 
 The __'Tools and Examples'__ section provides several Jupyter notebooks demonstrating different types of analyses and visualizations on the OSM data. This includes mapping, visualizing specific cities or regions, generating word clouds for any city, and more.<br>
 
-The project also includes an API.md document, explaining how to interact with the OpenStreetMap API. Another notebook __changeset_element_explorer.ipynb__ helps understand each variable in the OSM 'element' and __'changeset'__, providing ways to link changeset ids with element ids and vice versa.<br>
+The project also includes an __API.md__ document, explaining how to interact with the OpenStreetMap API. Another notebook __changeset_element_explorer.ipynb__ helps understand each variable in the OSM 'element' and __'changeset'__, providing ways to link changeset ids with element ids and vice versa.<br>
 
 Finally, the __'References'__ section provides links to external resources related to the Ukraine conflict, including a Wikipedia list of military engagements and conflict updates from the Institute for the Study of War (ISW) and Critical Threats Project (CTP).<br>
