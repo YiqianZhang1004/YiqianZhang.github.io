@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* University of Illinois at Urbana-Champaign           Graduate data: 2024
+* University of Illinois at Urbana-Champaign           <div align="right">Graduate data: 2024</div>
     * Bachelor of mathematics and statistics in LAS
     * GPA:3.90
     * Dean’s list: Spring 2022, Spring 2023
@@ -19,7 +19,7 @@ Education
 
 Relevant Projects
 ======
-* Ukraine Data Analysis (https://gitlab.engr.illinois.edu/r-sowers/ukraine-data)         May 2023 - present
+* [Ukraine Data Analysis](https://gitlab.engr.illinois.edu/r-sowers/ukraine-data)         May 2023 - present
    * Developed a series of Jupyter notebooks to analyze and visualize conflict data in Ukraine using Python, pandas, folium, and MongoDB.
    * Constructed interactive maps to compare differences of military engagements across various cities and time
 frames, utilizing OpenStreetMap API for data extraction.
