@@ -29,7 +29,7 @@ dynamic insights into the conflict data.
 specific city data.
    * Documented all processes and methodologies in detailed notebooks and an API guide, contributing to
 reproducible research and easy comprehension for future researchers.
-* Advanced SQL: MySQL Data Analysis & Business Intelligence project            <div align="right">May 2022 - July 20</div>
+* Advanced SQL: MySQL Data Analysis & Business Intelligence project            <div align="right">May 2022 - July 2022</div>
    * Traffic Analysis: Website traffic sources (search engine advertisements, organic search, and direct visits) were
 analyzed, and examined page-level website data to compare traffic volume and conversion rates and develop
 marketing plans using MySQL (sub-query, window function, temporary table, etc)
