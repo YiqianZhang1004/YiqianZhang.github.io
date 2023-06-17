@@ -1,7 +1,6 @@
 ---
-title: "Accounting Fundamentals certificate from CFI"
-excerpt: "Accounting Fundamental Certificate Accredited by Corporate Finance Institude <br/><img src='/images/AF.png'>"
+title: ["Ukraine Data"](https://gitlab.engr.illinois.edu/r-sowers/ukraine-data)
+excerpt: "Open Street Map Data of Russia-Ukraine Conflict <br/><img src='/images/heatmap.png'>"
 collection: portfolio
 ---
-
-Certificate number: 42099493
+https://gitlab.engr.illinois.edu/r-sowers/ukraine-data
