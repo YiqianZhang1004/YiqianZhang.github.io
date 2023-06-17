@@ -4,6 +4,7 @@ excerpt: "Open Street Map Data of Russia-Ukraine Conflict <br/><img src='/images
 collection: portfolio
 ---
 __[Open Street Map Data of Russia-Ukraine Conflict](https://gitlab.engr.illinois.edu/r-sowers/ukraine-data)__ <br>
+<br>
 =====
 This research project aims to investigate how the Russia-Ukraine conflict is manifested in the Open Street Map (OSM). The project focuses on the data and visualization of changes to OSM concerning various engagements during the conflict. <br>
 
