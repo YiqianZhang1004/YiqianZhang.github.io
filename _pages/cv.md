@@ -11,14 +11,15 @@ redirect_from:
 
 Education
 ======
-* University of Illinois at Urbana-Champaign         Graduate data: 2024
+* University of Illinois at Urbana-Champaign          <p align="right">Graduate data: 2024</p>
     * Bachelor of mathematics and statistics in LAS
-    * GPA:3.87
-    * Dean’s list: Spring 2022
-    * Relevant Courseworks: Calculus, Computer Science, Differential Equations, Statistics and Probability, Statistical Analysis, Statistics Programming Methods, Statistical Modeling
+    * GPA:3.90
+    * Dean’s list: Spring 2022, Spring 2023
+    * Relevant Courseworks: Calculus, Computer Science, Differential Equations, Statistics and Probability, Statistical Analysis, Statistics Programming Methods, Statistical Modeling, linear algebra
 
 Relevant Projects
 ======
+* Ukraine Data Analysis (https://gitlab.engr.illinois.edu/r-sowers/ukraine-data) May 2023 - present
 * Advanced SQL: MySQL Data Analysis & Business Intelligence project           May 2022 - July 20
    * Traffic Analysis: Website traffic sources (search engine advertisements, organic search, and direct visits) were
 analyzed, and examined page-level website data to compare traffic volume and conversion rates and develop
