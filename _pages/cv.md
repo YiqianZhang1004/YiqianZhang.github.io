@@ -11,11 +11,7 @@ redirect_from:
 
 Education
 ======
-* <div style="display: flex; justify-content: space-between;">
-  <p>University of Illinois at Urbana-Champaign</p>
-  <p>Graduate data: 2024</p>
-</div>
-
+* University of Illinois at Urbana-Champaign           Graduate data: 2024
     * Bachelor of mathematics and statistics in LAS
     * GPA:3.90
     * Dean’s list: Spring 2022, Spring 2023
@@ -23,7 +19,16 @@ Education
 
 Relevant Projects
 ======
-* Ukraine Data Analysis (https://gitlab.engr.illinois.edu/r-sowers/ukraine-data) May 2023 - present
+* Ukraine Data Analysis (https://gitlab.engr.illinois.edu/r-sowers/ukraine-data)         May 2023 - present
+   * Developed a series of Jupyter notebooks to analyze and visualize conflict data in Ukraine using Python, pandas, folium, and MongoDB.
+   * Constructed interactive maps to compare differences of military engagements across various cities and time
+frames, utilizing OpenStreetMap API for data extraction.
+   * Employed advanced data visualization techniques such as heatmaps, word clouds, and animations to provide
+dynamic insights into the conflict data.
+   * Effectively utilized MongoDB to store and manage large volumes of data, creating preliminary scrapers for
+specific city data.
+   * Documented all processes and methodologies in detailed notebooks and an API guide, contributing to
+reproducible research and easy comprehension for future researchers.
 * Advanced SQL: MySQL Data Analysis & Business Intelligence project           May 2022 - July 20
    * Traffic Analysis: Website traffic sources (search engine advertisements, organic search, and direct visits) were
 analyzed, and examined page-level website data to compare traffic volume and conversion rates and develop
@@ -47,10 +52,11 @@ Activities
 
 Skills
 ======
+* Microsoft office: Microsoft Office Specialist: Master
 * JAVA 
 * R
 * Python
-* Microsoft office :Microsoft Office Specialist: Master
+* MongoDB
 * SQL
 * Tableau
 * Languages:
