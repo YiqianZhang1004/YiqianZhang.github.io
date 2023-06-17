@@ -11,8 +11,11 @@ redirect_from:
 
 Education
 ======
-* University of Illinois at Urbana-Champaign
-  <p align="right">Graduate data: 2024</p>
+* <div style="display: flex; justify-content: space-between;">
+    <span>University of Illinois at Urbana-Champaign</span>
+    <span>Graduate data: 2024</span>
+</div>
+
     * Bachelor of mathematics and statistics in LAS
     * GPA:3.90
     * Dean’s list: Spring 2022, Spring 2023
