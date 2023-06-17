@@ -11,11 +11,7 @@ redirect_from:
 
 Education
 ======
-* <div style="display: flex; justify-content: space-between;">
-    <span>University of Illinois at Urbana-Champaign</span>
-    <span>Graduate data: 2024</span>
-</div>
-
+* University of Illinois at Urbana-Champaign     -Graduate data: 2024
     * Bachelor of mathematics and statistics in LAS
     * GPA:3.90
     * Dean’s list: Spring 2022, Spring 2023
@@ -23,7 +19,7 @@ Education
 
 Relevant Projects
 ======
-* [Ukraine Data Analysis](https://gitlab.engr.illinois.edu/r-sowers/ukraine-data)   <p align="right">May 2023 - present</p>
+* [Ukraine Data Analysis](https://gitlab.engr.illinois.edu/r-sowers/ukraine-data)   May 2023 - present
    * Developed a series of Jupyter notebooks to analyze and visualize conflict data in Ukraine using Python, pandas, folium, and MongoDB.
    * Constructed interactive maps to compare differences of military engagements across various cities and time
 frames, utilizing OpenStreetMap API for data extraction.
@@ -33,7 +29,7 @@ dynamic insights into the conflict data.
 specific city data.
    * Documented all processes and methodologies in detailed notebooks and an API guide, contributing to
 reproducible research and easy comprehension for future researchers.
-* Advanced SQL: MySQL Data Analysis & Business Intelligence project            <p align="right">May 2022 - July 2022</p>
+* Advanced SQL: MySQL Data Analysis & Business Intelligence project            May 2022 - July 2022
    * Traffic Analysis: Website traffic sources (search engine advertisements, organic search, and direct visits) were
 analyzed, and examined page-level website data to compare traffic volume and conversion rates and develop
 marketing plans using MySQL (sub-query, window function, temporary table, etc)
@@ -42,7 +38,7 @@ performance by kind of device (mobile or PC); Additional conducted time-series a
 seasonality features.
    * Product and customer level Analysis: Analyzed cross-selling trends and refund section to keep track of the
 purchasing process; Investigated user behavior and repeat sessions to find most valued client.
-* Covid-19 Data Visualization by Using Tableau   <p align="right">October 2021 - May 2022</p>
+* Covid-19 Data Visualization by Using Tableau  October 2021 - May 2022
    * Use Tbleau to visualize the world-wise positive case, death count.
    * Visualize and analyze the daily number of new coronavirus additions around the world.
 
