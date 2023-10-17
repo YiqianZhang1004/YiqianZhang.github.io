@@ -50,11 +50,11 @@ purchasing process; Investigated user behavior and repeat sessions to find most 
 
 Campus Experience
 ======
-* Course Assistance | College Algebra        _August 2023 - Present_
+* Course Assistance - College Algebra        _August 2023 - Present_
    * Content: Rapid review of basic techniques of factoring, rational expressions, equations and inequalities, functions and graphs exponential  and logarithm parts, systems of equations, matrices and determinants, polynomials, and the binomial theorem
    * Facilitate group discussions to help 56 students solve problems
    * Be responsible for office hours to answer student questions, and provide course assistance, including grade recording, problem explanation, progress tracking, course optimization
-* Tutor | Calculus & Calculus 1          _August 2023 - Present_
+* Tutor - Calculus & Calculus 1          _August 2023 - Present_
    * Tutored first course in Calculus and Analytic Geometry and first course in calculus and analytic geometry for students with some calculus background
    * Guided students with their class assignments, homework assignments, quizzes, tests, and exams
    * Support students with their conceptual understanding and problem-solving skills, and enhance student academic performance and confidence in the subjects
@@ -70,9 +70,9 @@ Activities
 Skills
 ======
 * Microsoft office: Microsoft Office Specialist: [Master](https://www.credly.com/badges/04dee982-88a4-44ff-acac-75d82574fddd?source=linked_in_profile)
-* JAVA 
 * R (shiny, Rmarkdown, ggplot2, dplyr, tidyr, tidyverse)
 * Python (pandas, json, numpy, matplotlib, folium, wordcloud, statistics)
+* JAVA 
 * MongoDB
 * SQL 
 * Tableau
