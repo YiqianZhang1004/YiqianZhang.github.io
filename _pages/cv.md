@@ -19,7 +19,7 @@ Education
 
 Relevant Projects
 ======
-* [Ukraine Data Analysis](https://gitlab.engr.illinois.edu/r-sowers/ukraine-data)   _May 2023 - present_
+* [Ukraine Data Analysis](https://gitlab.engr.illinois.edu/r-sowers/ukraine-data)   _May 2023 - August 2023_
    * Developed a series of Jupyter notebooks to analyze and visualize conflict data in Ukraine using Python, pandas, folium, and MongoDB.
    * Constructed interactive maps to compare differences of military engagements across various cities and time
 frames, utilizing OpenStreetMap API for data extraction.
@@ -29,6 +29,12 @@ dynamic insights into the conflict data.
 specific city data.
    * Documented all processes and methodologies in detailed notebooks and an API guide, contributing to
 reproducible research and easy comprehension for future researchers.
+* [UIUC Student Distribution Analysis](https://yiqianzhang1004.shinyapps.io/student-by-state/)        _March 2023 - May 2023_
+   * Crafted an interactive R-based Shiny application highlighting UIUC student distribution from various states
+   * Enabled dynamic data exploration by year, state, and degree, showcasing visuals like bar and pie charts
+   * Deployed a map feature illustrating student distribution across the U.S. based on degree level
+   * Integrated a detailed data table for year-and-state-specific student breakdowns
+   * Highlighted student attendance trends from specific states over time
 * Advanced SQL: MySQL Data Analysis & Business Intelligence project            _May 2022 - July 2022_
    * Traffic Analysis: Website traffic sources (search engine advertisements, organic search, and direct visits) were
 analyzed, and examined page-level website data to compare traffic volume and conversion rates and develop
@@ -42,6 +48,17 @@ purchasing process; Investigated user behavior and repeat sessions to find most 
    * Use Tbleau to visualize the world-wise positive case, death count.
    * Visualize and analyze the daily number of new coronavirus additions around the world.
 
+Campus Experience
+======
+* Course Assistance | College Algebra        _August 2023 - Present_
+   * Content: Rapid review of basic techniques of factoring, rational expressions, equations and inequalities, functions and graphs exponential  and logarithm parts, systems of equations, matrices and determinants, polynomials, and the binomial theorem
+   * Facilitate group discussions to help 56 students solve problems
+   * Be responsible for office hours to answer student questions, and provide course assistance, including grade recording, problem explanation, progress tracking, course optimization
+* Tutor | Calculus & Calculus 1          _August 2023 - Present_
+   * Tutored first course in Calculus and Analytic Geometry and first course in calculus and analytic geometry for students with some calculus background
+   * Guided students with their class assignments, homework assignments, quizzes, tests, and exams
+   * Support students with their conceptual understanding and problem-solving skills, and enhance student academic performance and confidence in the subjects
+
 Activities
 ======
 * Global leaders: orange and blue engagement Urbana, IL
@@ -52,12 +69,12 @@ Activities
 
 Skills
 ======
-* Microsoft office: Microsoft Office Specialist: Master
+* Microsoft office: Microsoft Office Specialist: [Master](https://www.credly.com/badges/04dee982-88a4-44ff-acac-75d82574fddd?source=linked_in_profile)
 * JAVA 
-* R
-* Python
+* R (shiny, Rmarkdown, ggplot2, dplyr, tidyr, tidyverse)
+* Python (pandas, json, numpy, matplotlib, folium, wordcloud, statistics)
 * MongoDB
-* SQL
+* SQL 
 * Tableau
 * Languages:
   * Chinese (Native)
