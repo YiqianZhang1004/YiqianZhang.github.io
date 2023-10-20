@@ -55,17 +55,22 @@ Campus Experience
    * Facilitate group discussions to help 56 students solve problems
    * Be responsible for office hours to answer student questions, and provide course assistance, including grade recording, problem explanation, progress tracking, course optimization
 * Tutor - Calculus & Calculus 1          _August 2023 - Present_
-   * Tutored first course in Calculus and Analytic Geometry and first course in calculus and analytic geometry for students with some calculus background
+   * Tutored first course in calculus and analytic geometry for students with some calculus background
    * Guided students with their class assignments, homework assignments, quizzes, tests, and exams
    * Support students with their conceptual understanding and problem-solving skills, and enhance student academic performance and confidence in the subjects
 
 Activities
 ======
+* CSSA Event Planning Committee Member    _October 2023 - Present_
+    * Collaborated with a diverse team to conceptualize, plan, and execute various events under the CSSA banner.
+    * Assisted in logistical planning, ensuring events ran smoothly and met predetermined objectives.
+    * Contributed to marketing and promotional strategies, leading to increased event attendance and engagement.
 * Global leaders: orange and blue engagement Urbana, IL
     * Team up in small groups to participate in various activities and events.
     * Interact with members from all over the world, thus improving your leadership and communication skills.
-* VEX Robot Club    2018 - 2020
+* VEX Robot Club    _2018 - 2020_
     * Team leader: Lead 10 members to design, make and program robots; used automatic programs to enable the robots to move in specific competition venues. Win awards at national and world-class events.
+
 
 Skills
 ======
