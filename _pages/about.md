@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my World..."
+title: "Applied Math and Stat student at University of Illinois Urbana-Champaign"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, everone! my name is Yiqian Zhang. I am currently a student in University of Illinois at Urbana-Champaign. My major is mathematics and statistics. I am very interested in data manipulation and geometry. At the same time, when I am in class, I am very good at integrating and processing key knowledge, so as to efficiently complete notes and study tasks. Since high school, my notes have been recognized by many teachers. I am an enthusiastic, motivated, hardworking, and rigorous person with a great passion for data analysis and data science. I am eager to be challenged in order to grow and further improve my analysis skill. My greatest passion in life is using my skills to make complex data simple.
+I am a dedicated third-year Applied Mathematics and Statistics student at the University of Illinois at Urbana-Champaign (UIUC). My fascination with data began early on, leading me to delve deeply into data analysis and science. This passion extends beyond mere numbers; I'm captivated by the narratives they craft and the insights they reveal. UIUC has sharpened my skills, empowering me to dissect complex datasets and derive valuable insights. I'm eager to apply this expertise, simplifying complicated data patterns into actionable knowledge. I thrive on challenges, always seeking opportunities that push my analytical boundaries and foster growth.
 
 
 
