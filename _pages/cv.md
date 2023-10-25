@@ -20,9 +20,14 @@ Education
 Research experience
 ======
 * Rail Transportation and Engineering Center (RailTEC), Rail Safety and Risk Group    _October 2023 - Present_
-   * 
-* [Ukraine Data Analysis](https://gitlab.engr.illinois.edu/r-sowers/ukraine-data)   
-    Undergraduate Research Assistant    _May 2023 - August 2023_
+   Undergraduate Research Assistant 
+   * Engaged in comprehensive railway transportation safety projects, applying engineering, analytical, and operational principles to real-world challenges.
+   * Conducted in-depth railway safety data analysis, employing statistical tools and methodologies to derive actionable insights.
+   * Authored and contributed to detailed reports, presenting findings and recommendations to enhance railway safety protocols and procedures.
+   * Utilized programming languages and tools, including Python, and R, for data collection, processing, and analysis.
+   * Collaborated with a multidisciplinary team of engineers and researchers, continuously expanding knowledge in transportation risk analysis and railway engineering.
+* [Ukraine Data Analysis](https://gitlab.engr.illinois.edu/r-sowers/ukraine-data)      _May 2023 - August 2023_
+    Undergraduate Research Assistant 
    * Developed a series of Jupyter notebooks to analyze and visualize conflict data in Ukraine using Python, pandas, folium, and MongoDB.
    * Constructed interactive maps to compare differences of military engagements across various cities and time
 frames, utilizing OpenStreetMap API for data extraction.
