@@ -15,6 +15,7 @@ Education
     * Bachelor of mathematics and statistics in LAS
     * GPA:3.90
     * Dean’s list: Spring 2022, Spring 2023
+    * Hoover Mathematical Scholar Award
     * Relevant Courseworks: Calculus, Computer Science, Differential Equations, Statistics and Probability, Statistical Analysis, Statistics Programming Methods, Statistical Modeling, linear algebra
 
 Research experience
