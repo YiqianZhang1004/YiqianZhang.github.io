@@ -17,9 +17,12 @@ Education
     * Dean’s list: Spring 2022, Spring 2023
     * Relevant Courseworks: Calculus, Computer Science, Differential Equations, Statistics and Probability, Statistical Analysis, Statistics Programming Methods, Statistical Modeling, linear algebra
 
-Relevant Projects
+Research experience
 ======
-* [Ukraine Data Analysis](https://gitlab.engr.illinois.edu/r-sowers/ukraine-data)   _May 2023 - August 2023_
+* Rail Transportation and Engineering Center (RailTEC), Rail Safety and Risk Group    _October 2023 - Present_
+   * 
+* [Ukraine Data Analysis](https://gitlab.engr.illinois.edu/r-sowers/ukraine-data)   
+    Undergraduate Research Assistant    _May 2023 - August 2023_
    * Developed a series of Jupyter notebooks to analyze and visualize conflict data in Ukraine using Python, pandas, folium, and MongoDB.
    * Constructed interactive maps to compare differences of military engagements across various cities and time
 frames, utilizing OpenStreetMap API for data extraction.
@@ -29,6 +32,9 @@ dynamic insights into the conflict data.
 specific city data.
    * Documented all processes and methodologies in detailed notebooks and an API guide, contributing to
 reproducible research and easy comprehension for future researchers.
+
+Relevant Projects
+======
 * [UIUC Student Distribution Analysis](https://yiqianzhang1004.shinyapps.io/student-by-state/)        _March 2023 - May 2023_
    * Crafted an interactive R-based Shiny application highlighting UIUC student distribution from various states
    * Enabled dynamic data exploration by year, state, and degree, showcasing visuals like bar and pie charts
