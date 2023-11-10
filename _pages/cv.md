@@ -25,7 +25,7 @@ Research experience
    * Engaged in comprehensive railway transportation safety projects, applying engineering, analytical, and operational principles to real-world challenges.
    * Conducted in-depth railway safety data analysis, employing statistical tools and methodologies to derive actionable insights.
    * Authored and contributed to detailed reports, presenting findings and recommendations to enhance railway safety protocols and procedures.
-   * Utilized programming languages and tools, including Python, and R, for data collection, processing, and analysis.
+   * Utilized programming languages and tools, including Python, and R, for data collection, processing, and analysis, successfully merged a 25GB+ dataset with a relevant smaller table, ensuring data consistency and accuracy for research purposes.
    * Collaborated with a multidisciplinary team of engineers and researchers, continuously expanding knowledge in transportation risk analysis and railway engineering.
 * [Ukraine Data Analysis](https://gitlab.engr.illinois.edu/r-sowers/ukraine-data)      _May 2023 - August 2023_
     Undergraduate Research Assistant 
